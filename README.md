@@ -1,3 +1,3 @@
 # AssementJava
-Prova final do Tri-Mestre De Java
+Prova final do Trimestre De Java
 Jogo Medieval Battle
